@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:9:1-42:12
+	package
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:14:22-77
+application
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:16:5-40:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ryanpickett/.android/build-cache/5b2b41eeb6de6203e73cd345153f490804505530/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ryanpickett/.android/build-cache/eb835f8d4c1dfe3df3153c54b85c8a30fae30d92/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ryanpickett/.android/build-cache/d5565ca1029f65034bd02b222d8b29709a2beaf2/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ryanpickett/.android/build-cache/da257dcadc681fff6710665cfb288c22f28bf183/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ryanpickett/.android/build-cache/fd7801aa3c49f261b3c70ea561baaf8767b57760/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:26:13-48
+activity#com.parse.starter.actvities.MainActivity
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:30:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:35:27-74
+activity#com.parse.starter.actvities.UserListActivity
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:38:19-61
+activity#com.parse.starter.actvities.UserFeedActivity
+ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:39:9-73
+	android:name
+		ADDED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml:39:19-61
+uses-sdk
+INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ryanpickett/.android/build-cache/5b2b41eeb6de6203e73cd345153f490804505530/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ryanpickett/.android/build-cache/eb835f8d4c1dfe3df3153c54b85c8a30fae30d92/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ryanpickett/.android/build-cache/d5565ca1029f65034bd02b222d8b29709a2beaf2/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ryanpickett/.android/build-cache/da257dcadc681fff6710665cfb288c22f28bf183/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ryanpickett/.android/build-cache/fd7801aa3c49f261b3c70ea561baaf8767b57760/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/ryanpickett/.android/build-cache/5b2b41eeb6de6203e73cd345153f490804505530/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/src/main/AndroidManifest.xml

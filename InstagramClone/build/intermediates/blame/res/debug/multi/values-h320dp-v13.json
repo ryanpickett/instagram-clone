@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/ryanpickett/AndroidStudioProjects/Instagram/InstagramClone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/ryanpickett/.android/build-cache/5b2b41eeb6de6203e73cd345153f490804505530/output/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]
